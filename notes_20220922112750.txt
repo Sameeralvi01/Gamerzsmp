@@ -1,0 +1,4 @@
+09.22 11:17 am
+"ip" Gamerzsmp0.aternos.me
+"Port" 45231
+"Name" Gamerzsmp
